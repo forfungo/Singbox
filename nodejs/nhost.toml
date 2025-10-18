@@ -1,0 +1,3 @@
+[run.services.nodejs]
+path = "nodejs"
+dockerfile = "nodejs/Dockerfile"
