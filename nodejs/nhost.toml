@@ -1,0 +1,3 @@
+[run.services.my-nj-service]
+path = "nodejs"
+dockerfile = "nodejs/Dockerfile"
